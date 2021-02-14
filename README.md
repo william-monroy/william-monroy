@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm William Monroy 💻🎓
+
+I'm a first year Computer Science student interested in having international experiences in software, research, entrepreneurship, and innovation. My passion is technology and learn everyday something new. Fell free to contact me on my social media to share knowledge or do projects together.
+
+## Find me around the web 🌎: 
+- <a href="https://www.facebook.com/william.monroy0509">Facebook</a> ✒
+- <a href="https://www.linkedin.com/in/william-monroy/">Linkedin</a> 💼
