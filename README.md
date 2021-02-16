@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm William Monroy 💻🎓
 
+<img src="https://i.postimg.cc/kg89zt7w/story-jay-dosnumu-5d40ba0ae487c55dcb177058ef7e3762cdc2f14bf61993c064dbadc0dca7f092.jpg" align="center" />
+
+
 I'm a first year Computer Science student interested in having international experiences in software, research, entrepreneurship, and innovation. My passion is technology and learn everyday something new. Fell free to contact me on my social media to share knowledge or do projects together.
 
 ## Find me around the web 🌎: 
