@@ -24,3 +24,6 @@ I'm a first year Computer Science student interested in having international exp
 ## Find me around the web 🌎: 
 - <a href="https://www.facebook.com/william.monroy0509">Facebook</a> ✒
 - <a href="https://www.linkedin.com/in/william-monroy/">Linkedin</a> 💼
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=william-monroy&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
