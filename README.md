@@ -1,4 +1,6 @@
-[![background-github.png](https://i.postimg.cc/Px0RLVyd/background-github.png)](https://postimg.cc/gXqDQD17)
+[![background-github.png](https://i.postimg.cc/Px0RLVyd/background-github.png)](https:///www.linkedin.com/in/william-monroy)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=william-monroy&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
