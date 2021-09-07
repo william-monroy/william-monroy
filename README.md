@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Monterrey Institute if Technology and Higher Studies.\
+🎓 &nbsp;I'm currently studying Computer Science at Monterrey Institute of Technology and Higher Studies.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🌍 &nbsp;My passion is teach and share everything I know about technology with my community.\
 💼 &nbsp;I'm looking for an internship or part time job/project to apply my skills.\
