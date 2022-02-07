@@ -11,7 +11,7 @@
 💼 &nbsp;I'm looking for an internship or part time job/project to apply my skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at william.monroy.mamani@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/15_z1f_Wcddr8qH_FkpHv9x_P6CN6G3sf/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1cRx3vqs0IGIeWMCux_zkcca-MljAPuLt/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
