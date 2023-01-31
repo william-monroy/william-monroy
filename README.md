@@ -48,6 +48,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/william-monroy/"><img src="https://img.shields.io/badge/-William%20Frank%20Monroy%20Mamani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:william_monroy777@hotmail.com"><img src="https://img.shields.io/badge/-william_monroy777@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/william.monroy.m/"><img src="https://img.shields.io/badge/-@william.monroy.m-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/william.monroy.m/"><img src="https://img.shields.io/badge/-@william.monroy.m-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/wimodev/"><img src="https://img.shields.io/badge/-@wimodev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/wimodev/"><img src="https://img.shields.io/badge/-@wimodev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
