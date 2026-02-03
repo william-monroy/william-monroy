@@ -56,7 +56,8 @@
 <p align="center">
 <a href="https://github.com/william-monroy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=william-monroy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=william-monroy&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=william-monroy&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=william-monroy&theme=algolia" alt="william-monroy"/>
 </a>
 </p>
 
@@ -69,4 +70,3 @@
 <a href="https://www.facebook.com/wimodev/"><img src="https://img.shields.io/badge/-@wimodev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-![My badges](https://holopin.me/williammonroy)
